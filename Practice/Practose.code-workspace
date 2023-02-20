@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Mo_Money"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp"
+		}
+	}
+}
